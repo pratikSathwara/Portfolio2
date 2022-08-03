@@ -562,7 +562,7 @@ h2 {
 
 .Qualifiction_grid {
   display: grid;
-  grid-template-columns: 33.33% 33.33% 33.33%;
+  grid-template-columns: 50% 50%;
 }
 
 .Qualifiction {
@@ -578,7 +578,7 @@ h2 {
 }
 
 .passing_year {
-  width: 30%;
+  width: 25%;
   padding-left: 10px;
   float: left;
 }
@@ -601,7 +601,7 @@ h2 {
 }
 
 .Qualifiction_desc {
-  width: 70%;
+  width: 75%;
   float: left;
   line-height: 1.8;
 }
